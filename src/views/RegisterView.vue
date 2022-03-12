@@ -74,7 +74,7 @@
         </div>
         <div class="col-12">
           <button type="submit" class="btn btn btn-outline-secondary">
-            Sign in / log in
+            Sign in
           </button>
         </div>
       </form>
