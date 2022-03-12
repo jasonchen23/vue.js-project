@@ -4,7 +4,7 @@
     <router-link to="/products">產品列表</router-link> |
     <router-link to="/checkout">結帳(共有 {{ currentQuantity }} 個商品)</router-link > |
     <router-link to="/register">會員註冊</router-link> |
-        <router-link to="/login">會員登入</router-link> |
+    <router-link to="/login">會員登入</router-link> |
 
 </div>
 </template>
