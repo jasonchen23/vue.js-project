@@ -1,7 +1,7 @@
 <template>
 <div id="nav">
     <router-link to="/Home">Home</router-link> |
-    <router-link to="/products">產品清單</router-link> |
+    <router-link to="/products">產品列表</router-link> |
     <router-link to="/checkout">結帳(共有 {{ currentQuantity }} 個商品)</router-link > |
     <router-link to="/register">會員中心</router-link> |
 </div>
