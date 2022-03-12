@@ -29,3 +29,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 Add /views/LoginView.Vue
 ```
+```
+Add /views/LoginView.Vue增加Cancel的button
+```
