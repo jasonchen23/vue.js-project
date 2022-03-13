@@ -10,7 +10,7 @@
         <!-- 1 -->
         <div class="d-lg-flex justify-content-sm-evenly ">
             <div class="card " style="width: 18rem;">
-                <img src="images/japanA5Buger.png" class="card-img-top" alt="...">
+                <img src="../../product/images/japanA5Buger.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">日本A5和牛起司堡</h5>
                     <p class="card-text">優惠價：＄195</p>
@@ -21,7 +21,7 @@
             </div>
             <!-- 2 -->
             <div class="card" style="width: 18rem;">
-                <img src="images/codfishBuger.png" class="card-img-top" alt="...">
+                <img src="../../product/images/codfishBuger.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">起司鱈魚堡</h5>
                     <p class="card-text">優惠價：＄105</p>
@@ -32,7 +32,7 @@
             </div>
             <!-- 3 -->
             <div class="card" style="width: 18rem;">
-                <img src="images/riceBuger.png" class="card-img-top" alt="...">
+                <img src="../../product/images/riceBuger.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">海味炸蝦米堡</h5>
                     <p class="card-text">優惠價：＄105</p>
@@ -46,7 +46,7 @@
         <!-- 4 -->
         <div class="d-lg-flex justify-content-evenly">
             <div class="card" style="width: 18rem;">
-                <img src="images/chicagoBuger.png" class="card-img-top" alt="...">
+                <img src="../../product/images/chicagoBuger.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">勁辣花生雞芝加哥堡</h5>
                     <p class="card-text">優惠價：＄115</p>
@@ -57,7 +57,7 @@
             </div>
             <!-- 5 -->
             <div class="card" style="width: 18rem;">
-                <img src="images/tunaEggBrioche.png" class="card-img-top" alt="...">
+                <img src="../../product/images/tunaEggBrioche.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">鮪魚蛋皇后堡</h5>
                     <p class="card-text">優惠價：＄115</p>
@@ -68,7 +68,7 @@
             </div>
             <!-- 6 -->
             <div class="card" style="width: 18rem;">
-                <img src="images/taroRedBeansBrioche.png" class="card-img-top" alt="...">
+                <img src="../../product/images/taroRedBeansBrioche.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">芋見紅豆皇后堡</h5>
                     <p class="card-text">優惠價：＄115</p>
