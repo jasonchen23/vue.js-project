@@ -25,7 +25,7 @@
           />
           <div id="passwordHelpBlock" class="form-text">
             Your password must be 8-20 characters long, contain letters and
-            numbers, and must not contain spaces, special characters, or emoji.
+            numbers, and must not contain spaces, special characters, or emoji1.
           </div>
         </div>
         <div class="mb-3 form-check">
