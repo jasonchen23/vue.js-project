@@ -9,7 +9,7 @@
         <br>
         <!-- 1 -->
         <div class="d-lg-flex justify-content-sm-evenly ">
-            <div class="card " style="width: 18rem;">
+            <div class="card leftCard" style="width: 18rem;">
                 <img src="../../product/images/japanA5Buger.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">日本A5和牛起司堡</h5>
@@ -32,7 +32,7 @@
             </div>
             <!-- 3 -->
             <div class="card" style="width: 18rem;">
-                <img src="../../product/images/riceBuger.png" class="card-img-top" alt="...">
+                <img src="../../product/images/riceBuger.png" class="card-img-top rice" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">海味炸蝦米堡</h5>
                     <p class="card-text">優惠價：＄105</p>
@@ -45,8 +45,8 @@
         <br>
         <!-- 4 -->
         <div class="d-lg-flex justify-content-evenly">
-            <div class="card" style="width: 18rem;">
-                <img src="../../product/images/chicagoBuger.png" class="card-img-top" alt="...">
+            <div class="card leftCard" style="width: 18rem;">
+                <img src="../../product/images/chicagoBuger.png" class="card-img-top chicago" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">勁辣花生雞芝加哥堡</h5>
                     <p class="card-text">優惠價：＄115</p>
@@ -57,7 +57,7 @@
             </div>
             <!-- 5 -->
             <div class="card" style="width: 18rem;">
-                <img src="../../product/images/tunaEggBrioche.png" class="card-img-top" alt="...">
+                <img src="../../product/images/tunaEggBrioche.png" class="card-img-top brioche" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">鮪魚蛋皇后堡</h5>
                     <p class="card-text">優惠價：＄115</p>
@@ -68,7 +68,7 @@
             </div>
             <!-- 6 -->
             <div class="card" style="width: 18rem;">
-                <img src="../../product/images/taroRedBeansBrioche.png" class="card-img-top" alt="...">
+                <img src="../../product/images/taroRedBeansBrioche.png" class="card-img-top brioche" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">芋見紅豆皇后堡</h5>
                     <p class="card-text">優惠價：＄115</p>
@@ -109,4 +109,48 @@ export default {
         width: 80%;
         margin: auto;
     }
+    img{
+            height: 45vh;
+            width: 100%;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            background-size: cover;
+            background-position: center center;
+        }
+        .chicago{
+            padding-top: 55px;
+            padding-bottom: 55px;
+        }
+        .brioche{
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .rice{
+            padding-top: 55px;
+            padding-bottom: 55px;
+        }
+        .title-f:after {
+            position: absolute;
+            top: calc(50% - 7px);
+            left: -10px;
+            width: 14px;
+            height: 14px;
+            content: '';
+            border-radius: 50%;
+            background: #fff;
+        }
+        .card:hover{
+            background-color: rgb(255, 255, 255);
+            box-shadow: rgb(255, 255, 255) 9px 9px 18px 0px, rgb(255, 255, 255) -9px -9px 18px 0px;
+            -webkit-box-shadow: rgba(163, 177, 198, 0.5) 20px 20px 30px 20px, rgb(255, 255, 255) -9px -9px 18px -9px;
+            border-radius: 17px;
+            -webkit-border-radius: 17px;
+        }
+        .leftCard:hover{
+            background-color: rgb(255, 255, 255);
+            box-shadow: rgb(255, 255, 255) 9px 9px 18px 0px, rgb(255, 255, 255) -9px -9px 18px 0px;
+            -webkit-box-shadow: rgba(163, 177, 198, 0.5) 0px 20px 30px 20px, rgb(255, 255, 255) -9px -9px 18px -9px;
+            border-radius: 17px;
+            -webkit-border-radius: 17px;
+        }
 </style>
