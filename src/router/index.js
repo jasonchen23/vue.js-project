@@ -4,6 +4,7 @@ import ProductView from '../views/ProductView.vue'
 import CheckoutView from '../views/CheckoutView.vue'
 import RegisterView from '../views/RegisterView.vue'
 import LoginView from '../views/LoginView.vue'
+import HomeView from '../views/HomeView.vue'
 
 const routes = [
   {
@@ -31,7 +32,11 @@ const routes = [
       name: 'loginView',
       component: LoginView
     },
-  
+  {
+    path:'/home',
+    name:'HomeView',
+    component: HomeView
+  },
 ]
 
 const router = createRouter({
