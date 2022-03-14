@@ -12,7 +12,7 @@
             <div class="card leftCard" style="width: 18rem;">
                 <img src="../../product/images/japanA5Buger.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">日本A5和牛起司堡</h5>
+                    <h5 class="card-title">{{object.itemNames}}</h5>
                     <p class="card-text">優惠價：＄195</p>
                 </div>
                 <div class="card-body">

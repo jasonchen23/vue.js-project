@@ -3,7 +3,7 @@ import createPersistedState from 'vuex-persistedstate'
 
 export default createStore({
   state: {
-    serverPath: 'http://35.234.34.149',
+    serverPath: '',
     cart: []
   },
   getters: {
