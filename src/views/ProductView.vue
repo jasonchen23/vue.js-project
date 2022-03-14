@@ -28,7 +28,7 @@ export default {
     },    
     mounted(){
         axios.get(`${this.serverPath}/products/${this.$route.params.productId}`)
-             .then(response => this.product = response.data)
+                .then(response => this.product = response.data)
     },
     methods:{
         addCart: function(product){

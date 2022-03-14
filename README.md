@@ -32,3 +32,6 @@ Add /views/LoginView.Vue
 ```
 Add /views/LoginView.Vue增加Cancel的button
 ```
+```
+Change <a> to <button>
+```
