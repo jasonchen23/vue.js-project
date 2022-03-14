@@ -16,7 +16,7 @@
                     <p class="card-text">優惠價：＄195</p>
                 </div>
                 <div class="card-body">
-                    <a href="/product/productDetail01.html" class="btn btn-primary">查看詳情！</a>
+                    <button href="/product/productDetail01.html" class="btn btn-outline-secondary">加入購物車</button>
                 </div>
             </div>
             <!-- 2 -->
@@ -27,7 +27,7 @@
                     <p class="card-text">優惠價：＄105</p>
                 </div>
                 <div class="card-body">
-                    <a href="#" class="btn btn-primary">查看詳情！</a>
+                    <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                 </div>
             </div>
             <!-- 3 -->
@@ -38,7 +38,7 @@
                     <p class="card-text">優惠價：＄105</p>
                 </div>
                 <div class="card-body">
-                    <a href="#" class="btn btn-primary">查看詳情！</a>
+                    <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                 </div>
             </div>
         </div>
@@ -52,7 +52,7 @@
                     <p class="card-text">優惠價：＄115</p>
                 </div>
                 <div class="card-body">
-                    <a href="#" class="btn btn-primary">查看詳情！</a>
+                    <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                 </div>
             </div>
             <!-- 5 -->
@@ -63,7 +63,7 @@
                     <p class="card-text">優惠價：＄115</p>
                 </div>
                 <div class="card-body">
-                    <a href="#" class="btn btn-primary">查看詳情！</a>
+                    <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                 </div>
             </div>
             <!-- 6 -->
@@ -74,7 +74,7 @@
                     <p class="card-text">優惠價：＄115</p>
                 </div>
                 <div class="card-body">
-                    <a href="#" class="btn btn-primary">查看詳情！</a>
+                    <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                 </div>
             </div>
         </div>
