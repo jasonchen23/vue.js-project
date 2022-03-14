@@ -4,7 +4,7 @@
       <div class="owl-carousel">
         <div class="carousel-item">
           <div class="carousel-img">
-            <img src="img/carousel-1.jpg" alt="Image" />
+            <img src="../../buger/img/carousel-1.jpg" alt="Image" />
           </div>
           <div class="carousel-text">
             <h1>超美味 <span>漢堡</span> Super</h1>
