@@ -2,7 +2,9 @@
 <div id="nav">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Navbar</a>
+                <router-link to="/Home" class="nav-brand">
+                    <img src="./images/bugerLogo.svg" alt="" width="80" height="80">
+                </router-link>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -46,16 +48,15 @@ export default {
 </script>
 
 <style scoped>
-    /* #nav{
-        padding:30px;
+    #nav{
+        padding-block-end:30px;
         text-align: center;
-        background: beige;
     }
-    #nav a{
+    /* #nav a{
         font-weight: bold;
         color: #2c3e50;
-    }
+    } */
     #nav a.router-link-exact-active{
         color: #42b983;
-    } */
+    } 
 </style>
