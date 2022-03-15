@@ -10,7 +10,7 @@
             <h1>超美味 <span>漢堡</span> Super</h1>
             <p>大俠愛吃漢堡飽,你是大俠我是寶.</p>
             <div class="carousel-btn">
-              <a class="btn custom-btn" href="">View Menu</a>
+              <router-link to="/products" class="btn custom-btn">View Menu</router-link>
               <a class="btn custom-btn" href="">Book Table</a>
             </div>
           </div>
