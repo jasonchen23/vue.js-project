@@ -17,6 +17,12 @@
                         <p class="card-text">優惠價：＄195</p>
                     </div>
                     <div class="card-body">
+                        <div class="d-flex justify-content-evenly">
+                            <button class="btn btn-outline-secondary">+</button>
+                            <input class="col-md-4" placeholder="1" />
+                            <button class="btn btn-outline-secondary">-</button>
+                        </div>
+                        <br />
                         <button
                             href="/product/productDetail01.html"
                             class="btn btn-outline-secondary"
@@ -31,6 +37,13 @@
                         <p class="card-text">優惠價：＄105</p>
                     </div>
                     <div class="card-body">
+                        <div class="d-flex justify-content-evenly">
+                            <button class="btn btn-outline-secondary">+</button>
+                            <input class="col-md-4" placeholder="1" />
+                            <button class="btn btn-outline-secondary">-</button>
+                        </div>
+                        <br />
+
                         <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                     </div>
                 </div>
@@ -46,6 +59,13 @@
                         <p class="card-text">優惠價：＄105</p>
                     </div>
                     <div class="card-body">
+                        <div class="d-flex justify-content-evenly">
+                            <button class="btn btn-outline-secondary">+</button>
+                            <input class="col-md-4" placeholder="1" />
+                            <button class="btn btn-outline-secondary">-</button>
+                        </div>
+                        <br />
+
                         <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                     </div>
                 </div>
@@ -64,6 +84,13 @@
                         <p class="card-text">優惠價：＄115</p>
                     </div>
                     <div class="card-body">
+                        <div class="d-flex justify-content-evenly">
+                            <button class="btn btn-outline-secondary">+</button>
+                            <input class="col-md-4" placeholder="1" />
+                            <button class="btn btn-outline-secondary">-</button>
+                        </div>
+                        <br />
+
                         <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                     </div>
                 </div>
@@ -79,6 +106,13 @@
                         <p class="card-text">優惠價：＄115</p>
                     </div>
                     <div class="card-body">
+                        <div class="d-flex justify-content-evenly">
+                            <button class="btn btn-outline-secondary">+</button>
+                            <input class="col-md-4" placeholder="1" />
+                            <button class="btn btn-outline-secondary">-</button>
+                        </div>
+                        <br />
+
                         <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                     </div>
                 </div>
@@ -94,6 +128,13 @@
                         <p class="card-text">優惠價：＄115</p>
                     </div>
                     <div class="card-body">
+                        <div class="d-flex justify-content-evenly">
+                            <button class="btn btn-outline-secondary">+</button>
+                            <input class="col-md-4" placeholder="1" />
+                            <button class="btn btn-outline-secondary">-</button>
+                        </div>
+                        <br />
+
                         <button href="#" class="btn btn-outline-secondary">加入購物車</button>
                     </div>
                 </div>
