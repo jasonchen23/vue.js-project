@@ -27,6 +27,7 @@
   </div>
 </template>
 <style scoped>
+
 .logo {
   width: 170px;
   height: 170px;
