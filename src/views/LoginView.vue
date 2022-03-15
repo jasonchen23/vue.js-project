@@ -46,6 +46,6 @@
 }
 .test{
   width: 100%;
-  height: 80px;
+  height: 30px;
 }
 </style>
