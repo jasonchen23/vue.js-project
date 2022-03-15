@@ -1,4 +1,6 @@
+
 <template>
+
     <div class="row">
         <template v-for="product in products" :key="product">
             <ProductBox v-bind="product" />
@@ -84,6 +86,7 @@
 <script>
 import axios from 'axios'
 import ProductBox from '@/components/ProductBox.vue'
+
 
 export default {
     components:{
