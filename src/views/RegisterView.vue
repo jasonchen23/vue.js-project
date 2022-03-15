@@ -92,8 +92,8 @@
         width: 500px;
         height: 500px;
   }
-  .test{
+  /* .test{
     width: 100%;
     height: 300px;
-  }
+  } */
 </style>
