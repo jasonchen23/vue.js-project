@@ -80,6 +80,7 @@
       </form>
     </div>
   </div>
+  <div class="test"></div>
 </template>
 <style scoped>
   .about {
@@ -90,5 +91,9 @@
         justify-content: center;
         width: 500px;
         height: 500px;
+  }
+  .test{
+    width: 100%;
+    height: 300px;
   }
 </style>

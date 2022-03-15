@@ -29,6 +29,10 @@
 </template>
 <style scoped>
 
+.information{
+  /* display: flex;
+  flex-direction: column-reverse; */
+}
 .logo {
   width: 170px;
   height: 170px;

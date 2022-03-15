@@ -31,6 +31,7 @@
       </form>
     </div>
   </div>
+  <div class="test"></div>
 </template>
 
 <style scoped>
@@ -42,5 +43,9 @@
   justify-content: center;
   width: 500px;
   height: 500px;
+}
+.test{
+  width: 100%;
+  height: 80px;
 }
 </style>
