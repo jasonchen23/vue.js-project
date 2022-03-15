@@ -2,11 +2,11 @@
 <div id="nav">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid row">
-                <router-link to="/Home" class="nav-brand col-md-3">
+                <router-link to="/Home" class="nav-brand col-md-3 d-flex justify-content-center">
                     <img src="./images/bugerLogo.svg" alt="" width="130" height="130">
                 </router-link>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-3">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-4">
                         <li class="nav-item">
                             <router-link to="/Home" class="nav-link">首頁</router-link>
                         </li>
@@ -24,12 +24,12 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
-            </button>
+                </button>
+            </div>
         </nav>
 </div>
 </template>
