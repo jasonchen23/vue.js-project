@@ -3,10 +3,10 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid row">
                 <router-link to="/Home" class="nav-brand col-md-3 d-flex justify-content-center">
-                    <img src="./images/bugerLogo.svg" alt="" width="130" height="130">
+                    <img src="./images/bugerLogo.svg" alt="">
                 </router-link>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-4">
+                    <ul class="navbar-nav me-auto  mb-lg-0 ms-4 d-flex justify-content-center">
                         <li class="nav-item">
                             <router-link to="/Home" class="nav-link">首頁</router-link>
                         </li>
@@ -44,8 +44,9 @@ export default {
 </script>
 
 <style scoped>
-    #nav{
-        padding-block-end:30px;
+    nav{
+        padding: 0rem;
+        margin: 0.25rem;
         text-align: center;
     }
     /* #nav a{
@@ -55,4 +56,10 @@ export default {
     #nav a.router-link-exact-active{
         color: #42b983;
     } 
+    img{
+        width: 200px;
+        height: 80px;
+        padding: 0rem;
+        margin: 0rem;
+    }
 </style>
