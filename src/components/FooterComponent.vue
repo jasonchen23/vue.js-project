@@ -11,7 +11,7 @@
       <h6><span>Add</span> 台北市中正區龍山街206號</h6>
       <h6><span>Email</span> bugerqueen@dmail.com</h6>
     </div>
-    <div class="col-lg-4 text-center mb-lg-2">
+    <div class="col-lg-4 text-center mb-lg-2 join">
       <i><span>加盟專線</span> 0800-002-003</i>
       &nbsp;
       <logo> 
@@ -45,5 +45,9 @@ h6 {
   width: 30px;
   height: 30px;
   padding: 0px;
+}
+.join{
+  display: flex;
+  flex-direction: column-reverse;
 }
 </style>

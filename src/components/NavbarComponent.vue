@@ -2,7 +2,7 @@
 <div id="nav">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid row">
-                <router-link to="/Home" class="nav-brand col-md-3 d-flex justify-content-center">
+                <router-link to="/Home" class="nav-brand col-md-3 text-center ms-2 ms-lg-1">
                     <img src="./images/bugerLogo.svg" alt="">
                 </router-link>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -24,7 +24,7 @@
                         </li>
                     </ul>
                 </div>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                <button class="navbar-toggler ms-2" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
